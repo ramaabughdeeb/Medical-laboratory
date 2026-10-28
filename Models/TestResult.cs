@@ -1,0 +1,2 @@
+namespace LaboratoryDesktopApp.Models;
+public class TestResult { public int Id {get;set;} public int OrderId {get;set;} public string TestCode {get;set;}=""; public string Parameter {get;set;}=""; public string Value {get;set;}=""; public string Unit {get;set;}=""; public string ReferenceRange {get;set;}="Demo range"; public string Status {get;set;}="Draft"; public DateTime UpdatedAt {get;set;}=DateTime.Now; }

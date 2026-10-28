@@ -1,0 +1,17 @@
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\bin\Debug\net8.0-windows\LaboratoryDesktopApp.exe
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\bin\Debug\net8.0-windows\LaboratoryDesktopApp.deps.json
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\bin\Debug\net8.0-windows\LaboratoryDesktopApp.runtimeconfig.json
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\bin\Debug\net8.0-windows\LaboratoryDesktopApp.dll
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\bin\Debug\net8.0-windows\LaboratoryDesktopApp.pdb
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\obj\Debug\net8.0-windows\LaboratoryDesktopApp.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\obj\Debug\net8.0-windows\LaboratoryDesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\obj\Debug\net8.0-windows\LaboratoryDesktopApp.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\obj\Debug\net8.0-windows\LaboratoryDesktopApp.AssemblyInfo.cs
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\obj\Debug\net8.0-windows\LaboratoryDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\obj\Debug\net8.0-windows\Laborato.58817A45.Up2Date
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\obj\Debug\net8.0-windows\LaboratoryDesktopApp.dll
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\obj\Debug\net8.0-windows\refint\LaboratoryDesktopApp.dll
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\obj\Debug\net8.0-windows\LaboratoryDesktopApp.pdb
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\obj\Debug\net8.0-windows\LaboratoryDesktopApp.genruntimeconfig.cache
+C:\Users\HP\Downloads\LaboratoryDesktopApp-workflow\LaboratoryDesktopApp\obj\Debug\net8.0-windows\ref\LaboratoryDesktopApp.dll
