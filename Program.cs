@@ -1,3 +1,6 @@
+
+using LaboratoryDesktopApp.Security;
+
 namespace LaboratoryDesktopApp;
 
 internal static class Program
@@ -6,6 +9,13 @@ internal static class Program
     static void Main()
     {
         ApplicationConfiguration.Initialize();
+
+        using (var login = new LoginForm())
+        {
+            if (login.ShowDialog() != DialogResult.OK)
+                return;
+        }
+
         Application.Run(new Forms.MainForm());
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Downloads\\LaboratoryDesktopApp-workflow\\LaboratoryDesktopApp\\LaboratoryDesktopApp.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Desktop\\Medical-laboratory\\LaboratoryDesktopApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Downloads\\LaboratoryDesktopApp-workflow\\LaboratoryDesktopApp\\LaboratoryDesktopApp.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Desktop\\Medical-laboratory\\LaboratoryDesktopApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Downloads\\LaboratoryDesktopApp-workflow\\LaboratoryDesktopApp\\LaboratoryDesktopApp.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Medical-laboratory\\LaboratoryDesktopApp.csproj",
         "projectName": "LaboratoryDesktopApp",
-        "projectPath": "C:\\Users\\HP\\Downloads\\LaboratoryDesktopApp-workflow\\LaboratoryDesktopApp\\LaboratoryDesktopApp.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Medical-laboratory\\LaboratoryDesktopApp.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Downloads\\LaboratoryDesktopApp-workflow\\LaboratoryDesktopApp\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Medical-laboratory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -49,6 +49,10 @@
             "FontAwesome.Sharp": {
               "target": "Package",
               "version": "[6.6.0, )"
+            },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2026.9.1, )"
             }
           },
           "imports": [
